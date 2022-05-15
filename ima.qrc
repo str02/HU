@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/dial_ima">
+        <file>image/转盘.png</file>
+    </qresource>
+</RCC>
